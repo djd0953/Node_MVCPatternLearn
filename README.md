@@ -1,2 +1,2 @@
 # node_mvc_pattern_study
-MVC 패턴 정리
+MVC 패턴 예제
